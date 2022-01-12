@@ -1,5 +1,5 @@
 # 2d-game
-Testing the Godot engine.
+Testing the Godot engine to make a 2d game.
 
 # To run the project:
 1. Go to https://godotengine.org/ and install their engine.
